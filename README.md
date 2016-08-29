@@ -51,7 +51,7 @@ git remote add origin git@github.com:you/my-awesome-project-name.git
 git remote -v 
 (#check that you have the remotes)
 ```
-
+You are ready to Rock and Roll. :microphone: :guitar:
 ##2. EUPHORIA :lollipop:
 
 ##3. FEAR :see_no_evil:
