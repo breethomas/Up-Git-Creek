@@ -20,7 +20,7 @@ git init
 ```
 Boom. :boom: ```#Initialized empty Git repository in /Users/you/my_awesome_project_name/.git```
 
-I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my project up :arrow_up: to the big Github :octocat: in the sky. I will go there now and follow these [steps](https://help.github.com/articles/creating-a-new-repository/). I will make sure that my GH repository name EXACTLY matches the <my_awesome_project_name> I just created locally on my computer.
+I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my project up :arrow_up: to the big Github :octocat: in the sky. I will go there now and follow these [steps](https://help.github.com/articles/creating-a-new-repository/). I will make sure that my GH repository name EXACTLY matches the name of my ```mkdir``` <my_awesome_project_name>.
 
 ##2. EUPHORIA :lollipop:
 
