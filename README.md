@@ -46,8 +46,10 @@ I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my 
 cd <my-awesome-project-name>
 git remote -v  
 (#see that it it empty, nothing happens)
+
 git remote add origin git@github.com:you/my-awesome-project-name.git 
 (#copy paste the GH url of your project and assign it to the label of 'origin')
+
 git remote -v 
 (#check that you have the remotes)
 ```
