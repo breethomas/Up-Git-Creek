@@ -114,6 +114,6 @@ Points to add:
 ##6. FINALE :sparkling_heart:
 So this is git, as demanding and nourishing and difficult as it can be, and as strong and wise as it makes you become. There is something to be gained from commitment. There are rewards for staying when you would rather leave. And there is something to be said for running up that hill when you would rather slide down it. And so you let git come perch upon your shoulder. And you do not turn it away. You do the tango. Just git it.
 
-Add several great resources/tutorials for furthering study and becoming a "git master":
+(Add several great resources/tutorials for furthering study and becoming a "git master"):
 ____________________________________________________________________________________________________________________________
 **(inspired by [Nike's 1993 Vanity Fair Ad](http://www.rogerhorberry.com/falling-in-love-in-six-acts-courtesy-of-nike/))**
