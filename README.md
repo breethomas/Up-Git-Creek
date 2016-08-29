@@ -18,6 +18,7 @@ git init
 ```
 Boom. :boom: ```#Initialized empty Git repository in /Users/you/my_awesome_project_name/.git```
 
+I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my project up to the big Github :octocat: in the sky. I will go there now...
 
 ##2. EUPHORIA :lollipop:
 
