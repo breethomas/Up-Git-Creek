@@ -19,10 +19,10 @@ git init
 
 ##2. EUPHORIA :lollipop:
 
-##3. FEAR :heart_eyes:
+##3. FEAR :see_no_evil:
 
-##4. DISGUST :heart_eyes:
+##4. DISGUST :poop:
 
-##5. TRUTH :heart_eyes:
+##5. TRUTH :raised_hands:
 
-##6. FINALE :heart_eyes:
+##6. FINALE :sparkling_heart:
