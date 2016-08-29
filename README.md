@@ -29,6 +29,7 @@ Eeeeeeeee!!!! :clap: Life is so good, because this:
 # origin	git@github.com:you/my-awesome-project-name.git (fetch)
 # origin	git@github.com:you/my-awesome-project-name.git (push)
 ```
+I have the correct remotes in place for my local machine to both push and fetch from the big :octocat: in the sky.:thumbsup:
 
 ### Path-B) I create my project locally first:
 ```
