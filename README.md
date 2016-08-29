@@ -19,6 +19,16 @@ Here it is, the big “Wow!” the big “Gee!” the big “YesYesYes!” you�
 - I visit my profile on GH and I create a new repo, following these [steps](https://help.github.com/articles/creating-a-new-repository/).
 - Yay! I will now clone this very shiny new, empty repository onto my machine. And the lovely GH provides the [steps](https://help.github.com/articles/cloning-a-repository/) to do so.
 - I do not have to ```git init``` in ```<my-awesome-project-name>```. Because I cloned from the big GH in the sky, I am all initialized with an empty .git repository. I am special. :tulip:
+- And just to be sure all is well, I will double check that the project on my machine is in fact connected to the big :octocat: in the sky.
+```
+cd <my-awesome-project-name>
+git remote -v
+```
+Eeeeeeeee!!!! :clap: Life is so good, because this:
+```
+origin	git@github.com:you/my-awesome-project-name.git (fetch)
+origin	git@github.com:you/my-awesome-project-name.git (push)
+```
 
 ### Path-B) I create my project locally first:
 ```
@@ -30,7 +40,7 @@ Boom. :boom: ```#Initialized empty Git repository in /Users/you/my-awesome-proje
 
 I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my project up :arrow_up: to the big Github :octocat: in the sky. I will go there now and follow these [steps](https://help.github.com/articles/creating-a-new-repository/) to create a new repository.
 
-:speech_balloon: BUT WAIT! Can they talk to one another? Is my project on my machine connected to my github repo? :confused: I get that for free when I clone from Github like in Path-A, but because I chose Path-B, I must create the connection between the two entities. I will do it. :muscle:
+:speech_balloon: BUT WAIT! Can they talk to one another? Is the project on my machine connected to my github repo? :confused: I get that for free when I clone from Github like in Path-A, but because I chose Path-B, I must create the connection between the two entities. I will do it. :muscle:
 ```
 
 ```
