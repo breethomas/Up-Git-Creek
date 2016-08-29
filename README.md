@@ -43,7 +43,10 @@ I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my 
 
 :speech_balloon: BUT WAIT! Can they talk to one another? Is the project on my machine connected to my github repo? :confused: I get that for free when I clone from Github like in Path-A, but because I chose Path-B, I must create the connection between the two entities. I will do it. :muscle:
 ```
-
+cd <my-awesome-project-name>
+git remote -v  (#see that it it empty, nothing happens)
+git remote add origin git@github.com:you/my-awesome-project-name.git (#copy paste the GH url of your project and assign it to the label of 'origin')
+git remote -v (#check that you have the remotes show up)
 ```
 
 ##2. EUPHORIA :lollipop:
