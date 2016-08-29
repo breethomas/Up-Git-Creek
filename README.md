@@ -61,16 +61,19 @@ You feel funny inside. You feel funny outside. You feel you could do anything an
 ```
 git status
 (# prints the status of your current situation.)
-(# expect git to tell you what you branch you are on and which files are "untracked", meaning changes were made)
+(# expect git to tell you what you branch you are on 
+and which files are "untracked", meaning changes were made)
 
 git add .
-(# this command will add ALL the changes you just made to "staging", meaning they are ready to be committed)
+(# this command will add ALL the changes you just made to 
+"staging", meaning they are ready to be committed)
 
 git add <path/filename>
 (# this command will add changes based upon the file you specify)
 
 git status
-(# run this command after EVERY git command to reinforce that you know what you are doing and where you are at any git-moment)
+(# run this command after EVERY git command to reinforce that you know 
+what you are doing and where you are at any git-moment)
 
 ```
 ### You are ready to commit:
