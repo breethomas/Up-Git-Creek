@@ -93,15 +93,22 @@ git push origin master
 (# you care not about branches, nor collaborators - that comes in the next phase...)
 
 ```
+But even though you are the master of your own domain, what if your gh is mistaken about this? What if you are DENIED? Never fear. The FORCE is with you:
+```
+git push -f origin master
+(# you will now overwrite the entire repo on the big gh in the sky with your local copy)
+(# it is good. it is powerful. it is necessary. it is also dangerous. think before you push)
+```
 
 ##Act Three. FEAR :see_no_evil:
 Now you must collaborate with a ###TEAM###. More than one person all up in your git and github. This is where the doubt begins, where the mind comes back from shopping, yells at the heart, binds and gags it to a nice lounge chair and allows guilt, failure, and remembrances of things past to sit in for a nice game of bridge. This is where you become afraid to commit, to push, to share anything with that damn :octocat:.
 
-```
+Add some collaborators to your gh repo. Follow these [steps](https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/) and make sure you understand "collaborator access" - you are no longer the sole key holder of your kingdom.
 
 ```
-Points to add:
-- adding collaborators on gh
+
+
+```
 - branching
 - pull, merge, push order
 - pull requests
