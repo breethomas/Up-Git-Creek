@@ -18,7 +18,7 @@ Here it is, the big “Wow!” the big “Gee!” the big “YesYesYes!” you�
 
 - I visit my profile on GH and I create a new repo, following these [steps](https://help.github.com/articles/creating-a-new-repository/).
 - Yay! I will now clone this very shiny new, empty repository onto my machine. And the lovely GH provides the [steps](https://help.github.com/articles/cloning-a-repository/) to do so.
-- I do not have to ```git init``` in <my-awesome-project-name>. Because I cloned from the big GH in the sky, I am all initialized with an empty .git repository. I am special. :tulip:
+- I do not have to ```git init``` in ```<my-awesome-project-name>```. Because I cloned from the big GH in the sky, I am all initialized with an empty .git repository. I am special. :tulip:
 
 ### Path-B) I create my project locally first:
 ```
