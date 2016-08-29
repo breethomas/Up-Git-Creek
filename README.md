@@ -53,6 +53,32 @@ git remote -v
 ```
 You are ready to Rock and Roll. :microphone: :guitar:
 ##2. EUPHORIA :lollipop:
+You feel funny inside. You feel funny outside. You feel you could do anything and no one would dare laugh at you. This git and github, you will treasure. You will not put it in the basement next to your rowing machine, treadmill, and thermal body sweat wrap. And you will not take the git for granted, because that is the biggest sin of all. You will commit. And commit often. You will make your first commit like no other. Because you are solo. This is your repo, your project, your one-person-in-charge-of-every-last-commit-domain. 
+
+### You are making changes and coding things:
+```
+git status
+(# prints the status of your current situation.)
+(# expect git to tell you what you branch you are on and which files are "untracked", meaning changes were made)
+git add .
+(# this command will add ALL the changes you just made to "staging", meaning they are ready to be committed)
+git add <path/filename>
+(# this command will add changes based upon the file you specify)
+git status
+(# run this command after EVERY git command to reinforce that you know what you are doing and where you are at any git-moment)
+```
+### You are ready to commit:
+```
+git status
+(# you have changed files that are "staged" and ready for commit)
+git commit -m "My awesome commit message"
+(# you are happy with your staged changes and commit them with no apology)
+git status
+(# at this juncture, you might see "nothing to commit, working tree clean")
+```
+### You want to share your masterpiece with the world:
+
+
 
 ##3. FEAR :see_no_evil:
 
