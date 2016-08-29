@@ -22,13 +22,13 @@ Here it is, the big “Wow!” the big “Gee!” the big “YesYesYes!” you�
 
 ### Path-B) I create my project locally first:
 ```
-mkdir <my_awesome_project_name>
-cd <my_awesome_project_name>
+mkdir <my-awesome-project-name>
+cd <my-awesome-project-name>
 git init
 ```
-Boom. :boom: ```#Initialized empty Git repository in /Users/you/my_awesome_project_name/.git```
+Boom. :boom: ```#Initialized empty Git repository in /Users/you/my-awesome-project-name/.git```
 
-I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my project up :arrow_up: to the big Github :octocat: in the sky. I will go there now and follow these [steps](https://help.github.com/articles/creating-a-new-repository/). I will make sure that my GH repository name EXACTLY matches the name of my ```mkdir```, which is ```<my_awesome_project_name>```.
+I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my project up :arrow_up: to the big Github :octocat: in the sky. I will go there now and follow these [steps](https://help.github.com/articles/creating-a-new-repository/).
 
 ##2. EUPHORIA :lollipop:
 
