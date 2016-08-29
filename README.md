@@ -26,8 +26,8 @@ git remote -v
 ```
 Eeeeeeeee!!!! :clap: Life is so good, because this:
 ```
-origin	git@github.com:you/my-awesome-project-name.git (fetch)
-origin	git@github.com:you/my-awesome-project-name.git (push)
+# origin	git@github.com:you/my-awesome-project-name.git (fetch)
+# origin	git@github.com:you/my-awesome-project-name.git (push)
 ```
 
 ### Path-B) I create my project locally first:
