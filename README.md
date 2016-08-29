@@ -16,7 +16,7 @@ mkdir <my_awesome_project_name>
 cd <my_awesome_project_name>
 git init
 ```
-Boom. ```Initialized empty Git repository in /Users/you/my_awesome_project_name/.git```
+Boom. :boom: ```#Initialized empty Git repository in /Users/you/my_awesome_project_name/.git```
 
 
 ##2. EUPHORIA :lollipop:
