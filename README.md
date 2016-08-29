@@ -28,7 +28,12 @@ git init
 ```
 Boom. :boom: ```#Initialized empty Git repository in /Users/you/my-awesome-project-name/.git```
 
-I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my project up :arrow_up: to the big Github :octocat: in the sky. I will go there now and follow these [steps](https://help.github.com/articles/creating-a-new-repository/).
+I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my project up :arrow_up: to the big Github :octocat: in the sky. I will go there now and follow these [steps](https://help.github.com/articles/creating-a-new-repository/) to create a new repository.
+
+:speech_balloon: BUT WAIT! Can they talk to one another? Is my project on my machine connected to my github repo? :confused: I get that for free when I clone from Github like in Path-A, but because I chose Path-B, I must create the connection between the two entities. I will do it. :muscle:
+```
+
+```
 
 ##2. EUPHORIA :lollipop:
 
