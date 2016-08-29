@@ -45,7 +45,7 @@ I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my 
 ```
 cd <my-awesome-project-name>
 git remote -v  
-(# see that it it empty, nothing happens)
+(# see that it is empty, nothing happens)
 
 git remote add origin git@github.com:you/my-awesome-project-name.git 
 (# copy paste the GH url of your project and assign it to the label of 'origin')
@@ -87,7 +87,7 @@ git commit -m "My awesome commit message"
 git status
 (# at this juncture, you might see "nothing to commit, working tree clean")
 ```
-### You want to share your masterpiece with the world (aka "push to Github" :octocat):
+### You want to share your masterpiece with the world (aka "push to Github" :octocat:):
 ```
 
 ```
