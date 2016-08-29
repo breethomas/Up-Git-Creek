@@ -1,11 +1,3 @@
-### WIP Git Creek Cheat Sheets
-
-- basic workflows
-- common issues and solutions
-- maybe one day this will become a gorgeous decision tree graphic, complete with adorable illustrations
-
-#### And so our story begins...
-
 # Falling In Love with Git in Six Acts 
 **(inspired by [Nike's 1993 Vanity Fair Ad](http://www.rogerhorberry.com/falling-in-love-in-six-acts-courtesy-of-nike/))**
 
