@@ -14,10 +14,13 @@ Here it is, the big “Wow!” the big “Gee!” the big “YesYesYes!” you�
 
 *There are two paths to the start of this journey. Be sure to try them both on for size*
 
-### PATH A) I create my project on the big Github :octocat: in the sky first:
+### Path-A) I create my project on the big Github :octocat: in the sky first:
 
+- I visit my profile on GH and I create a new repo, following these [steps](https://help.github.com/articles/creating-a-new-repository/)
+- I name my repository EXACTLY as I plan to name the project on my computer, when I am ready to do a ```mkdir``
+- On the GH, it will look something like this: my-awesome-project-name (because GH will substitute hyphens for spaces)
 
-### PATH B) I create my project locally first:
+### Path-B) I create my project locally first:
 ```
 mkdir <my_awesome_project_name>
 cd <my_awesome_project_name>
