@@ -101,13 +101,18 @@ git push -f origin master
 ```
 
 ##Act Three. FEAR :see_no_evil:
-Now you must collaborate with a ###TEAM###. More than one person all up in your git and github. This is where the doubt begins, where the mind comes back from shopping, yells at the heart, binds and gags it to a nice lounge chair and allows guilt, failure, and remembrances of things past to sit in for a nice game of bridge. This is where you become afraid to commit, to push, to share anything with that damn :octocat:.
+Now you must collaborate with a **TEAM**. More than one person all up in your git and github. This is where the doubt begins, where the mind comes back from shopping, yells at the heart, binds and gags it to a nice lounge chair and allows guilt, failure, and remembrances of things past to sit in for a nice game of bridge. This is where you become afraid to commit, to push, to share anything with that damn :octocat:.
 
 ###Add some collaborators to your gh repo:### 
 - Follow these [steps](https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/) and make sure you understand "collaborator access" - you are no longer the sole key holder of your kingdom.
-- Make sure you know the [Git Flow](https://guides.github.com/introduction/flow/)
-- Communicate with your team, and establish your team's workflow. Read [Scott Chacon's](http://scottchacon.com/2011/08/31/github-flow.html) article on this.
-
+- Make sure you understand [Git Flow](https://guides.github.com/introduction/flow/)
+- Communicate with your team, and establish your team's workflow. Maybe something like this:
+  - Anything in the master branch is deployable
+  - To work on something new, create a descriptively named branch off of master, preceded by your initials (ie: bt-css refactor)
+  - Commit to that branch locally and regularly push your work to the same named branch on the server
+  - When you need feedback or help, or you think the branch is ready for merging, open a pull request
+  - After someone else has reviewed and signed off on the feature, you can merge it into master
+  - Once it is merged and pushed to ‘master’, you can and should deploy immediately
 
 ```
 
