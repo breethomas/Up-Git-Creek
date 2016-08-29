@@ -49,7 +49,7 @@ git remote -v
 git remote add origin git@github.com:you/my-awesome-project-name.git 
 (#copy paste the GH url of your project and assign it to the label of 'origin')
 git remote -v 
-(#check that you have the remotes show up)
+(#check that you have the remotes)
 ```
 
 ##2. EUPHORIA :lollipop:
