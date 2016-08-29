@@ -45,13 +45,13 @@ I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my 
 ```
 cd <my-awesome-project-name>
 git remote -v  
-(#see that it it empty, nothing happens)
+(# see that it it empty, nothing happens)
 
 git remote add origin git@github.com:you/my-awesome-project-name.git 
-(#copy paste the GH url of your project and assign it to the label of 'origin')
+(# copy paste the GH url of your project and assign it to the label of 'origin')
 
 git remote -v 
-(#check that you have the remotes)
+(# check that you have the remotes)
 ```
 You are ready to Rock and Roll. :microphone: :guitar:
 ##2. EUPHORIA :lollipop:
@@ -87,14 +87,23 @@ git commit -m "My awesome commit message"
 git status
 (# at this juncture, you might see "nothing to commit, working tree clean")
 ```
-### You want to share your masterpiece with the world:
+### You want to share your masterpiece with the world (aka "push to Github" :octocat):
+```
+
+```
 
 
 
 ##3. FEAR :see_no_evil:
+Now you must collaborate with a TEAM. More than one person all up in your git and github. This is where the doubt begins, where the mind comes back from shopping, yells at the heart, binds and gags it to a nice lounge chair and allows guilt, failure, and remembrances of things past to sit in for a nice game of bridge. This is where you become afraid to commit, to push, to share anything with that damn :octocat:.
+
+
 
 ##4. DISGUST :poop:
+Now comes that unavoidable time when you say to anyone who will listen: what the heck am I doing, anyway? If it’s a person you love, first you hate only their foulest inadequacies, then you start hating their good points as well. If it’s running you love, you start to hate hills, sidewalks, and bad weather, and soon anything that slightly resembles a bump, concrete, or a small breeze. I can’t believe I ever said I felt this way, I must have been dreaming! Wait, THIS IS NO DREAM, THIS IS A FILM NOIR MOVIE, and one of those really dark ones, too. I mean, this is love? This is what they tell you about when you’re 11 and naive? Or 32 and more naive?
 
 ##5. TRUTH :raised_hands:
+Love is a game. If they didn’t tell you before, we will tell you now. Love is a game and if you play you either win, lose, or get ejected before the game is over. There are no ties. Maybe you’ll lose and learn some great meaningful answer from it all (like if it looks too good to be true, it is). It’s easy to love something when you don’t have to work at it. It’s harder when it asks something of you, you just might be afraid to give. GIVE IT ANYWAY. The heart is the most resilient muscle. It is also the stupidest. So if this love you’ve found is good to you, hold it, keep it, shout about it. If it isn’t, then maybe you should just become very good friends.
 
 ##6. FINALE :sparkling_heart:
+So this is love, as demanding and nourishing and difficult as it can be, and as strong and wise as it makes you become. There is something to be gained from commitment. There are rewards for staying when you would rather leave. And there is something to be said for running up that hill when you would rather slide down it. And so you let love come perch upon your shoulder. And you do not turn it away. You do the tango. Just do it.
