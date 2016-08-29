@@ -17,7 +17,7 @@ cd <my_awesome_project_name>
 git init
 ```
 
-##2. EUPHORIA :heart_eyes:
+##2. EUPHORIA :lollipop:
 
 ##3. FEAR :heart_eyes:
 
