@@ -16,9 +16,10 @@ Here it is, the big “Wow!” the big “Gee!” the big “YesYesYes!” you�
 
 ### Path-A) I create my project on the big Github :octocat: in the sky first:
 
-- I visit my profile on GH and I create a new repo, following these [steps](https://help.github.com/articles/creating-a-new-repository/)
-- I name my repository EXACTLY as I plan to name the project on my computer, when I am ready to do a ```mkdir``
-- On the GH, it will look something like this: my-awesome-project-name (because GH will substitute hyphens for spaces)
+- I visit my profile on GH and I create a new repo, following these [steps](https://help.github.com/articles/creating-a-new-repository/).
+- I name my repository EXACTLY as I plan to name the project on my computer, when I am ready to do a ```mkdir```.
+- On the GH, it will look something like this: my-awesome-project-name (because GH will substitute hyphens for spaces).
+- Yay! I will now clone this very shiny new, empty repository onto my machine. And the lovely GH provides the [steps](https://help.github.com/articles/cloning-a-repository/) to do so.
 
 ### Path-B) I create my project locally first:
 ```
