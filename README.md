@@ -2,6 +2,7 @@
 This is just a little love story, which we expect to grow over time. For now, consider it a light reference as you begin your git adventures. It's not intended to be all encompassing. Some things, you need to explore on your own. It is intended to help the newly noob navigate nicely the seemingly nefarious netherworld named "git".
 
 *(This love story inspired by [Nike's 1993 Vanity Fair Ad](http://www.rogerhorberry.com/falling-in-love-in-six-acts-courtesy-of-nike/))*
+
 ***
 
 ##Act One. LUST :heart_eyes:
@@ -105,6 +106,7 @@ git push -f origin master
 (# you will now overwrite the entire repo on the big gh in the sky with your local copy)
 (# it is good. it is powerful. it is necessary. it is also dangerous. think before you push)
 ```
+
 ***
 
 ##Act Three. FEAR :see_no_evil:
@@ -166,6 +168,7 @@ git revert
 git stash
 
 ```
+***
 
 ##Act Five. TRUTH :raised_hands:
 Git is not the enemy. If they didn’t tell you before, we will tell you now. Git is forgiving. Git is your friend. Anything you git, you can un-git. Git loves you. Git is easy, or at least it will be soon. Just don't git up. Git with it. And most importantly, this is only the beginning of git. It is enough to git you going, but there is so much more to learn. Go forth and explore, confident in your ability to navigate the git creek.
@@ -177,6 +180,7 @@ git diff
 git interactive rebase
 ```
 
+***
 
 ##Act Six. FINALE :sparkling_heart:
 So this is git, as demanding and nourishing and difficult as it can be, and as strong and wise as it makes you become. There is something to be gained from commitment. There are rewards for staying when you would rather leave. And there is something to be said for running up that hill when you would rather slide down it. And so you let git come perch upon your shoulder. And you do not turn it away. You do the tango. Just git it.
