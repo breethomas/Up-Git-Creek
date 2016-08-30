@@ -167,10 +167,26 @@ Now comes that unavoidable time when you say to anyone who will listen: I got my
 
 ### Some helpful Oh :poop: commands once you find yourself up git creek: 
 ```
-git reset --hard
-(
-git revert
-git stash
+git commit --amend
+(# you made a goof in your last commit and want to amend it)
+(# you can change the message)
+(# you can add additional staged changes to the content of the amended commit)
+
+git revert <SHA>
+(# creates a new commit)
+(# Git's safest "undo" mechanism. it doesn't alter history)
+(# it creates a new 'inverse' commit that you've edited for correctness)
+(# it figures out the differences and amends a new commit)
+(# it undoes a single commit, it does NOT revert back to a previous state)
+
+git reset <last good SHA>
+(# rewinds your history back to the specified SHA)
+(# it's like those commits never happened)
+(# it preserves the working directory. commits = gone. contents = still on disk)
+
+git reset --hard <last good SHA>
+(# when you want to undo BOTH commits and the changes in one karate chop)
+(# a 100% do-over)
 
 ```
 ***
@@ -181,8 +197,8 @@ Git is not the enemy. If they didn’t tell you before, we will tell you now. Gi
 ### Some helpful commands and tools to show you the way:
 ```
 git log
-git diff
-git interactive rebase
+(# git outputs commits made in reverse chrono order)
+
 ```
 
 ***
@@ -202,5 +218,7 @@ git help <command>
 - [Github On Demand](https://github.github.io/on-demand/)
 - [Pro Git](https://progit.org/)
 - [Atlassian Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview/)
+- [Git Docs](https://git-scm.com/docs)
+- [Undo Almost Anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
 
