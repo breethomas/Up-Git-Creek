@@ -215,16 +215,16 @@ git log -p
 ***
 
 #Act Six. FINALE :sparkling_heart:
-So this is git, as demanding and nourishing and difficult as it can be, and as strong and wise as it makes you become. There is something to be gained from commitment. There are rewards for staying when you would rather leave. And there is something to be said for running up that hill when you would rather slide down it. And so you let git come perch upon your shoulder. And you do not turn it away. You do the tango. Just git it.
+So this is git, as demanding and nourishing and difficult as it can be, and as strong and wise as it makes you become. There is something to be gained from commitment. And so you let git come perch upon your shoulder. And you do not turn it away. You do the tango. You just git it.
 
-###When in doubt, ask git for help:
+###When all else fails, ask git for help:
 ```
 git help <command>
 (# if I want git to tell me about 'rebase', I type git help rebase)
 (# git provides description, options, and sometimes pictures in your terminal)
 ```
 
-###Other Resources on Your Road to Git Greatness:
+###From novice to Git Greatness, these things will git you there:
 - [Try Git](https://try.github.io/levels/1/challenges/1)
 - [Github On Demand](https://github.github.io/on-demand/)
 - [Pro Git](https://progit.org/)
