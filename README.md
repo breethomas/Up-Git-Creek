@@ -1,7 +1,5 @@
 # Falling In Love with Git in Six Acts
-This is just a little love story, which we expect to grow over time. For now, consider it a light reference as you begin your git adventures. It's not intended to be all encompassing. Some things, you need to explore on your own. It is intended to help the newly noob navigate nicely the seemingly nefarious netherworld named "git".
-
-This love story assumes you've already been introduced to git and have a github account.
+This is just a little git love reference, which we expect to grow over time. It's not all encompassing. Some things, you must explore on your own. This love story assumes you've already been introduced to git and have a github account.
 
 *(This love story inspired by [Nike's 1993 Vanity Fair Ad](http://www.rogerhorberry.com/falling-in-love-in-six-acts-courtesy-of-nike/))*
 
