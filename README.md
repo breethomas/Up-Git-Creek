@@ -132,7 +132,7 @@ git co master
 (# to ensure you are on master)
 
 git pull origin master
-(# pull down the latest changes from master on the big :octocat: in the sky)
+(# pull down the latest changes from master on the big github in the sky)
 (# these are commits that your team merged into master in your absence)
 
 git co -b gt-my-new-feature
@@ -150,7 +150,7 @@ git commit -m "My magnificent code changes"
 (# commit to staging)
 
 git push origin gt-my-new-feature
-(# push your BRANCH that is saved locally to the big :octocat: in the sky)
+(# push your BRANCH that is saved locally to the big github in the sky)
 ```
 Now visit the big :octocat: and do any number/combination of these things:
 - Create a pull request (PR).
