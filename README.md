@@ -59,7 +59,7 @@ You are ready to Rock and Roll. :microphone: :guitar:
 ***
 
 ##Act Two. EUPHORIA :lollipop:
-You feel funny inside. You feel funny outside. You feel you could do anything and no one would dare laugh at you. This git and github, you will treasure. You will not put it in the basement next to your rowing machine, treadmill, and thermal body sweat wrap. And you will not take the git for granted, because that is the biggest sin of all. You will commit. And commit often. You will make your first commit like no other. Because you are solo. This is your repo, your project, your one-person-in-charge-of-every-last-commit-domain.
+You feel funny inside. You feel funny outside. You feel you could do anything and no one would dare laugh at you. This git and github, you will treasure. You will commit. And commit often. You will make your first commit like no other. Because you are **SOLO**. This is your repo, your project, your *one-person-in-charge-of-every-last-commit-domain*.
 
 ### You are making changes and coding things:
 ```
@@ -112,7 +112,7 @@ git push -f origin master
 ***
 
 ##Act Three. FEAR :see_no_evil:
-Now you must collaborate with a **TEAM**. More than one person all up in your git and github. This is where the doubt begins, where the mind comes back from shopping, yells at the heart, binds and gags it to a nice lounge chair and allows guilt, failure, and remembrances of things past to sit in for a nice game of bridge. This is where you become afraid to commit, to push, to share anything with that damn :octocat:.
+Now you must collaborate with a **TEAM**. More than one person all up in your git and github. This is where the doubt begins, where the mind comes back from shopping, yells at the heart -- This is where you become afraid to commit, to push, to share anything with that damn :octocat:.
 
 ###Add some collaborators to your gh repo:
 - Follow these [steps](https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/) and make sure you understand "collaborator access" - you are no longer the sole key holder of your kingdom.
