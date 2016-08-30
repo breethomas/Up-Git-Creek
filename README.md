@@ -114,7 +114,7 @@ Now you must collaborate with a **TEAM**. More than one person all up in your gi
   - After someone else has reviewed and signed off on the feature, you can merge it into master
   - Once it is merged and pushed to ‘master’, you can and should deploy immediately
 
-###A day in the life workflow when working with other humans, sharing a :octocat: REPO:
+###A day in the life workflow when working with other humans, sharing a REPO :octocat::
 ```
 git coffee
 (# just kidding. this won't work. but it would be a lot cooler if it did...)
@@ -147,21 +147,24 @@ git push origin gt-my-new-feature
 ##Act Four. DISGUST :poop:
 Now comes that unavoidable time when you say to anyone who will listen: I got myself up git creek without a paddle! You have merge conflicts and find yourself desperately seeking a git blame. You've lost your teammates in a sea of git branching that has you feeling out of sync and off the reservation. You hate git. You hate collaborating. You pulled when you should of merged and then pushed. You force pushed and sunk the canoes of your teammates. You are a mess.
 
-Points to add:
-- git reset hard
-- git revert
-- git stash
-- git force
+### Some helpful Oh :poop:! I've got myself up git creek:
+```
+git reset --hard
+git revert
+git stash
+
+```
 
 ##Act Five. TRUTH :raised_hands:
 Git is not the enemy. If they didn’t tell you before, we will tell you now. Git is forgiving. Git is your friend. Anything you git, you can un-git. Git loves you. Git is easy, or at least it will be soon. Just don't git up. Git with it. And most importantly, this is only the beginning of git. It is enough to git you going, but there is so much more to learn. Go forth and explore, confident in your ability to navigate the git creek.
 
-Points to add:
-- git log
-- git diff
-- git gui tools, like github desktop and/or gitx?
-- git rebase
-- git interactive rebase
+### Some helpful commands and tools to show you the way:
+```
+git log
+git diff
+git interactive rebase
+```
+
 
 ##Act Six. FINALE :sparkling_heart:
 So this is git, as demanding and nourishing and difficult as it can be, and as strong and wise as it makes you become. There is something to be gained from commitment. There are rewards for staying when you would rather leave. And there is something to be said for running up that hill when you would rather slide down it. And so you let git come perch upon your shoulder. And you do not turn it away. You do the tango. Just git it.
@@ -171,7 +174,5 @@ So this is git, as demanding and nourishing and difficult as it can be, and as s
 - [Github On Demand](https://github.github.io/on-demand/)
 - [Pro Git](https://progit.org/)
 - [Atlassian Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview/)
-
-(Add several great resources/tutorials for furthering study and becoming a "git master"):
 ____________________________________________________________________________________________________________________________
 **(This love story inspired by [Nike's 1993 Vanity Fair Ad](http://www.rogerhorberry.com/falling-in-love-in-six-acts-courtesy-of-nike/))**
