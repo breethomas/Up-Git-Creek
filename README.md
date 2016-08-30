@@ -213,6 +213,7 @@ git log -p
 ### GUI Tools if you aren't :neckbeard: enough to stay in terminal outputs:
 - [Github Desktop](https://desktop.github.com/)
 - [Gitx](http://gitx.frim.nl/) (*don't forget to enable terminal usage with this one*)
+
 ***
 
 ##Act Six. FINALE :sparkling_heart:
