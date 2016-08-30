@@ -1,5 +1,7 @@
 # Falling In Love with Git in Six Acts
 This is just a little love story, which we expect to grow over time. For now, consider it a light reference as you begin your git adventures. It's not intended to be all encompassing. Some things, you need to explore on your own. It is intended to help the newly noob navigate nicely the seemingly nefarious netherworld named "git".
+*(This love story inspired by [Nike's 1993 Vanity Fair Ad](http://www.rogerhorberry.com/falling-in-love-in-six-acts-courtesy-of-nike/))*
+***
 
 ##Act One. LUST :heart_eyes:
 Here it is, the big “Wow!” the big “Gee!” the big “YesYesYes!” you’ve been waiting for...**YOU HAVE A NEW PROJECT ASSIGNMENT**. This is where you decide to build something better, greater, cuter, wiser, more wonderful than anything anyone has ever known. Lust isn’t a sin, it’s a necessity, for with lust as our guide we think: I have no need of food, I have no need of sleep, I have no needs other than occasionally chewing a breath mint. I am going to code my face off. And so it begins...
@@ -49,6 +51,8 @@ git remote -v
 (# check that you have the remotes in place)
 ```
 You are ready to Rock and Roll. :microphone: :guitar:
+
+***
 
 ##Act Two. EUPHORIA :lollipop:
 You feel funny inside. You feel funny outside. You feel you could do anything and no one would dare laugh at you. This git and github, you will treasure. You will not put it in the basement next to your rowing machine, treadmill, and thermal body sweat wrap. And you will not take the git for granted, because that is the biggest sin of all. You will commit. And commit often. You will make your first commit like no other. Because you are solo. This is your repo, your project, your one-person-in-charge-of-every-last-commit-domain.
@@ -100,6 +104,7 @@ git push -f origin master
 (# you will now overwrite the entire repo on the big gh in the sky with your local copy)
 (# it is good. it is powerful. it is necessary. it is also dangerous. think before you push)
 ```
+***
 
 ##Act Three. FEAR :see_no_evil:
 Now you must collaborate with a **TEAM**. More than one person all up in your git and github. This is where the doubt begins, where the mind comes back from shopping, yells at the heart, binds and gags it to a nice lounge chair and allows guilt, failure, and remembrances of things past to sit in for a nice game of bridge. This is where you become afraid to commit, to push, to share anything with that damn :octocat:.
@@ -188,6 +193,4 @@ git help <command>
 - [Pro Git](https://progit.org/)
 - [Atlassian Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview/)
 
-***
 
-**(This love story inspired by [Nike's 1993 Vanity Fair Ad](http://www.rogerhorberry.com/falling-in-love-in-six-acts-courtesy-of-nike/))**
