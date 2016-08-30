@@ -103,18 +103,48 @@ git push -f origin master
 ##Act Three. FEAR :see_no_evil:
 Now you must collaborate with a **TEAM**. More than one person all up in your git and github. This is where the doubt begins, where the mind comes back from shopping, yells at the heart, binds and gags it to a nice lounge chair and allows guilt, failure, and remembrances of things past to sit in for a nice game of bridge. This is where you become afraid to commit, to push, to share anything with that damn :octocat:.
 
-###Add some collaborators to your gh repo:### 
+###Add some collaborators to your gh repo:
 - Follow these [steps](https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/) and make sure you understand "collaborator access" - you are no longer the sole key holder of your kingdom.
 - Make sure you understand [Git Flow](https://guides.github.com/introduction/flow/)
 - Communicate with your team, and establish your team's workflow. Maybe something like this:
   - Anything in the master branch is deployable
-  - To work on something new, create a descriptively named branch off of master, preceded by your initials (ie: bt-css refactor)
-  - Commit to that branch locally and regularly push your work to the same named branch on the server
+  - To work on something new, create a descriptively named branch off of master, preceded by your initials (ie: gertrude zachary's' branch would be named: "gt-css-refactor")
+  - Commit to that branch locally and regularly push your work to the same named branch on the gh:octocat:
   - When you need feedback or help, or you think the branch is ready for merging, open a pull request
   - After someone else has reviewed and signed off on the feature, you can merge it into master
   - Once it is merged and pushed to ‘master’, you can and should deploy immediately
 
+###A day in the life workflow when working with other humans, sharing a :octocat: REPO:
 ```
+git coffee
+(# just kidding. this won't work. but it would be a lot cooler if it did...)
+
+git co master
+(# to ensure you are master)
+
+git pull origin master
+(# pull down the latest changes from master on the big gh in the sky)
+(# these are commits that your team merged into master in your absence)
+
+git co -b gt-my-new-feature
+(# gt references initials of "gertrude zachary" for example)
+(# you are creating and naming a new branch, off master with this command)
+(# write some codes)
+
+git status
+(# see what's up)
+
+git add <some file paths/names here>
+(# add your magnificent code changes)
+
+git commit -m "My magnificent code changes"
+(# commit to staging)
+
+git push origin gt-my-new-feature
+(# push your BRANCH that is saved locally to the big gh in the sky)
+```
+
+
 
 
 ```
