@@ -95,7 +95,7 @@ git status
 ### You want to share your masterpiece with the world (aka "push to Github" :octocat:):
 ```
 git push origin master
-(# you are pushing your local commits up to the big :octocat: in the sky)
+(# you are pushing your local commits up to the big github in the sky)
 (# you are the master of your local commits and in charge of the master gh repo)
 (# you care not about branches, nor collaborators - that comes in the next phase...)
 
@@ -103,7 +103,7 @@ git push origin master
 But even though you are the master of your own domain, what if your :octocat: is mistaken about this? What if you are DENIED? Never fear. The FORCE is with you:
 ```
 git push -f origin master
-(# you will now overwrite the entire repo on the big :octocat: in the sky with your local copy)
+(# you will now overwrite the entire repo on the big github in the sky with your local copy)
 (# it is good. it is powerful. it is necessary. it is also dangerous. think before you push)
 ```
 
