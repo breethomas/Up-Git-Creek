@@ -47,7 +47,7 @@ git remote add origin git@github.com:you/my-awesome-project-name.git
 (# copy paste the GH url of your project and assign it to the label of 'origin')
 (# side note, you could label it 'cupcake' if you wanted, although not recommended)
 (# typical remote labels include things like 'staging', 'production', 'heroku')
-(# use 'origin' for your project's corresponding gh repo, because...convention)
+(# use 'origin' for your project's corresponding github repo, because...convention)
 
 git remote -v
 (# check that you have the remotes in place)
