@@ -158,6 +158,8 @@ Now visit the gh :octocat: and do any number/combination of these things:
 - If the branch is passing and okay to merge with master, do it.
 - Create an issue list for your team, and use PRs to address/close out those issues.
 
+***
+
 ##Act Four. DISGUST :poop:
 Now comes that unavoidable time when you say to anyone who will listen: I got myself up git creek without a paddle! You have merge conflicts and find yourself desperately seeking a git blame. You've lost your teammates in a sea of git branching that has you feeling out of sync and off the reservation. You hate git. You hate collaborating. You pulled when you should of merged and then pushed. You force pushed and sunk the canoes of your teammates. You are a mess.
 
