@@ -17,7 +17,7 @@ Here it is, the big “Wow!” the big “Gee!” the big “YesYesYes!” you�
 - I do not have to ```git init``` in ```<my-awesome-project-name>```. Because I cloned from the big :octocat: in the sky, I am all initialized with an empty .git repository. I am special. :tulip:
 - And just to be sure all is well, I will double check that the project on my machine is in fact connected to the big :octocat: in the sky.
 ```
-**cd <my-awesome-project-name>**
+cd <my-awesome-project-name>
 git remote -v
 ```
 Eeeeeeeee!!!! :clap: Life is so good, because this:
