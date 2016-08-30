@@ -198,9 +198,21 @@ Git is not the enemy. If they didn’t tell you before, we will tell you now. Gi
 ```
 git log
 (# git outputs commits made in reverse chrono order)
+(# uses the default formatting)
+(# use Space to scroll and q to exit)
 
+git log --oneline
+(# condenses the output of your commit history into one-liners)
+
+git log --stat
+(# git log + which files changed and # of lines added/deleted)
+
+git log -p
+(# most detailed view of your history)
 ```
-
+### GUI Tools if you aren't :neckbeard: enough to stay in terminal outputs:
+- [Github Desktop](https://desktop.github.com/)
+- [Gitx](http://gitx.frim.nl/) (*don't forget to enable terminal usage with this one*)
 ***
 
 ##Act Six. FINALE :sparkling_heart:
