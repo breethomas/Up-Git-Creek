@@ -1,4 +1,5 @@
 # Falling In Love with Git in Six Acts
+This is just a little love story, which we expect to grow over time. For now, consider it a light reference as you begin your git adventures. It's not intended to be all encompassing. Some things, you need to explore on your own. It is intended to help the newly noob navigate nicely the seemingly nefarious netherworld named "git".
 
 ##Act One. LUST :heart_eyes:
 Here it is, the big “Wow!” the big “Gee!” the big “YesYesYes!” you’ve been waiting for...**YOU HAVE A NEW PROJECT ASSIGNMENT**. This is where you decide to build something better, greater, cuter, wiser, more wonderful than anything anyone has ever known. Lust isn’t a sin, it’s a necessity, for with lust as our guide we think: I have no need of food, I have no need of sleep, I have no needs other than occasionally chewing a breath mint. I am going to code my face off. And so it begins...
@@ -143,6 +144,11 @@ git commit -m "My magnificent code changes"
 git push origin gt-my-new-feature
 (# push your BRANCH that is saved locally to the big gh in the sky)
 ```
+Now visit the gh :octocat: and do any number/combination of these things:
+- Create a pull request (PR).
+- Chat with some of your team on the code in that PR.
+- If the branch is passing and okay to merge with master, do it.
+- Create an issue list for your team, and use PRs to address/close out those issues.
 
 ##Act Four. DISGUST :poop:
 Now comes that unavoidable time when you say to anyone who will listen: I got myself up git creek without a paddle! You have merge conflicts and find yourself desperately seeking a git blame. You've lost your teammates in a sea of git branching that has you feeling out of sync and off the reservation. You hate git. You hate collaborating. You pulled when you should of merged and then pushed. You force pushed and sunk the canoes of your teammates. You are a mess.
@@ -168,6 +174,13 @@ git interactive rebase
 
 ##Act Six. FINALE :sparkling_heart:
 So this is git, as demanding and nourishing and difficult as it can be, and as strong and wise as it makes you become. There is something to be gained from commitment. There are rewards for staying when you would rather leave. And there is something to be said for running up that hill when you would rather slide down it. And so you let git come perch upon your shoulder. And you do not turn it away. You do the tango. Just git it.
+
+###When in doubt, ask git for help:
+```
+git help <command>
+(# if I want git to tell me about 'rebase', I type git help rebase)
+(# git provides description, options, and sometimes pictures in your terminal)
+```
 
 ###Other Resources on Your Road to Git Greatness:
 - [Try Git](https://try.github.io/levels/1/challenges/1)
