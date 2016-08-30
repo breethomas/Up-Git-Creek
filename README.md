@@ -174,5 +174,7 @@ So this is git, as demanding and nourishing and difficult as it can be, and as s
 - [Github On Demand](https://github.github.io/on-demand/)
 - [Pro Git](https://progit.org/)
 - [Atlassian Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview/)
-____________________________________________________________________________________________________________________________
+
+***
+
 **(This love story inspired by [Nike's 1993 Vanity Fair Ad](http://www.rogerhorberry.com/falling-in-love-in-six-acts-courtesy-of-nike/))**
