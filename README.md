@@ -148,9 +148,6 @@ git push origin gt-my-new-feature
 
 
 ```
-- branching
-- pull, merge, push order
-- pull requests
 
 ##Act Four. DISGUST :poop:
 Now comes that unavoidable time when you say to anyone who will listen: I got myself up git creek without a paddle! You have merge conflicts and find yourself desperately seeking a git blame. You've lost your teammates in a sea of git branching that has you feeling out of sync and off the reservation. You hate git. You hate collaborating. You pulled when you should of merged and then pushed. You force pushed and sunk the canoes of your teammates. You are a mess.
@@ -173,6 +170,12 @@ Points to add:
 
 ##Act Six. FINALE :sparkling_heart:
 So this is git, as demanding and nourishing and difficult as it can be, and as strong and wise as it makes you become. There is something to be gained from commitment. There are rewards for staying when you would rather leave. And there is something to be said for running up that hill when you would rather slide down it. And so you let git come perch upon your shoulder. And you do not turn it away. You do the tango. Just git it.
+
+###Other Resources on Your Road to Git Greatness:
+- [Try Git](https://try.github.io/levels/1/challenges/1)
+- [Github On Demand](https://github.github.io/on-demand/)
+- [Pro Git](https://progit.org/)
+- [Atlassian Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview/)
 
 (Add several great resources/tutorials for furthering study and becoming a "git master"):
 ____________________________________________________________________________________________________________________________
