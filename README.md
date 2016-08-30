@@ -1,6 +1,8 @@
 # Falling In Love with Git in Six Acts
 This is just a little love story, which we expect to grow over time. For now, consider it a light reference as you begin your git adventures. It's not intended to be all encompassing. Some things, you need to explore on your own. It is intended to help the newly noob navigate nicely the seemingly nefarious netherworld named "git".
 
+This love story assumes you've already been introduced to git and have a github account.
+
 *(This love story inspired by [Nike's 1993 Vanity Fair Ad](http://www.rogerhorberry.com/falling-in-love-in-six-acts-courtesy-of-nike/))*
 
 ***
@@ -14,7 +16,7 @@ Here it is, the big “Wow!” the big “Gee!” the big “YesYesYes!” you�
 
 - I visit my profile on GH and I create a new repo, following these [steps](https://help.github.com/articles/creating-a-new-repository/).
 - Yay! I will now clone this very shiny new, empty repository onto my machine. And the lovely GH provides the [steps](https://help.github.com/articles/cloning-a-repository/) to do so.
-- I do not have to ```git init``` in ```<my-awesome-project-name>```. Because I cloned from the big GH in the sky, I am all initialized with an empty .git repository. I am special. :tulip:
+- I do not have to ```git init``` in ```<my-awesome-project-name>```. Because I cloned from the big :octocat: in the sky, I am all initialized with an empty .git repository. I am special. :tulip:
 - And just to be sure all is well, I will double check that the project on my machine is in fact connected to the big :octocat: in the sky.
 ```
 cd <my-awesome-project-name>
@@ -37,7 +39,7 @@ Boom. :boom: ```#Initialized empty Git repository in /Users/you/my-awesome-proje
 
 I want to share the love with everyone!!! How do I do this? OH RIGHT! I push my project up :arrow_up: to the big Github :octocat: in the sky. I will go there now and follow these [steps](https://help.github.com/articles/creating-a-new-repository/) to create a new repository.
 
-:speech_balloon: BUT WAIT! Can they talk to one another? Is the project on my machine connected to my github repo? :confused: I get that for free when I clone from Github like in Path-A, but because I chose Path-B, I must create the connection between the two entities. I will do it. :muscle:
+:speech_balloon: BUT WAIT! Can they talk to one another? Is the project on my machine connected to my github repo? :confused: I get that for free when I clone from Github (like in Path-A), but because I chose Path-B, I must create the connection between the two entities. **I will do it**. :muscle:
 ```
 cd <my-awesome-project-name>
 git remote -v
@@ -47,7 +49,7 @@ git remote add origin git@github.com:you/my-awesome-project-name.git
 (# copy paste the GH url of your project and assign it to the label of 'origin')
 (# side note, you could label it 'cupcake' if you wanted, although not recommended)
 (# typical remote labels include things like 'staging', 'production', 'heroku')
-(# use 'origin' for the your project's corresponding gh repo, because...convention)
+(# use 'origin' for your project's corresponding gh repo, because...convention)
 
 git remote -v
 (# check that you have the remotes in place)
@@ -77,7 +79,7 @@ git add <path/filename>
 
 git status
 (# run this command after EVERY git command)
-(# actually read git's output messages)
+(# read git's output messages)
 (# do this until you know what you are doing)
 
 ```
@@ -100,10 +102,10 @@ git push origin master
 (# you care not about branches, nor collaborators - that comes in the next phase...)
 
 ```
-But even though you are the master of your own domain, what if your gh is mistaken about this? What if you are DENIED? Never fear. The FORCE is with you:
+But even though you are the master of your own domain, what if your :octocat: is mistaken about this? What if you are DENIED? Never fear. The FORCE is with you:
 ```
 git push -f origin master
-(# you will now overwrite the entire repo on the big gh in the sky with your local copy)
+(# you will now overwrite the entire repo on the big :octocat: in the sky with your local copy)
 (# it is good. it is powerful. it is necessary. it is also dangerous. think before you push)
 ```
 
@@ -129,15 +131,15 @@ git coffee
 (# just kidding. this won't work. but it would be a lot cooler if it did...)
 
 git co master
-(# to ensure you are master)
+(# to ensure you are on master)
 
 git pull origin master
-(# pull down the latest changes from master on the big gh in the sky)
+(# pull down the latest changes from master on the big :octocat: in the sky)
 (# these are commits that your team merged into master in your absence)
 
 git co -b gt-my-new-feature
-(# gt references initials of "gertrude zachary" for example)
-(# you are creating and naming a new branch, off master with this command)
+(# gt references initials of "gertrude zachary" from above workflow example)
+(# you are creating and naming a new branch (off master) with this command)
 (# write some codes)
 
 git status
@@ -150,9 +152,9 @@ git commit -m "My magnificent code changes"
 (# commit to staging)
 
 git push origin gt-my-new-feature
-(# push your BRANCH that is saved locally to the big gh in the sky)
+(# push your BRANCH that is saved locally to the big :octocat: in the sky)
 ```
-Now visit the gh :octocat: and do any number/combination of these things:
+Now visit the big :octocat: and do any number/combination of these things:
 - Create a pull request (PR).
 - Chat with some of your team on the code in that PR.
 - If the branch is passing and okay to merge with master, do it.
@@ -163,9 +165,10 @@ Now visit the gh :octocat: and do any number/combination of these things:
 ##Act Four. DISGUST :poop:
 Now comes that unavoidable time when you say to anyone who will listen: I got myself up git creek without a paddle! You have merge conflicts and find yourself desperately seeking a git blame. You've lost your teammates in a sea of git branching that has you feeling out of sync and off the reservation. You hate git. You hate collaborating. You pulled when you should of merged and then pushed. You force pushed and sunk the canoes of your teammates. You are a mess.
 
-### Some helpful Oh :poop:! I've got myself up git creek:
+### Some helpful Oh :poop: commands once you find yourself up git creek: 
 ```
 git reset --hard
+(
 git revert
 git stash
 
